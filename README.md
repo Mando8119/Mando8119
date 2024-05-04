@@ -19,14 +19,7 @@ RC Car conversion to Autonomous RC Rover
 - Machine Learning
 - Artificial Inteligence
 
-## 🕴️ Organizations
-- Member of [Slugbotics](https://github.com/Slugbotics)
-    - I am apart of the [MATE ROV](https://github.com/Slugbotics/MATE-2023) team.
-- Member of [MESA](https://mesausa.org/)
-    - Member since 2018
-- Mentor of FRC Team #8119 [Tigerbotics](https://github.com/Imperial-High-School-TigerBotics)
-
-## Involvements
+## 🕴️ Involvements
 | Organization | Role | Duration |
 | --- | --- | --- |
 | [Slugbotics](https://github.com/Slugbotics) | Member of [MATE ROV](https://github.com/Slugbotics/MATE-2023) team | Since 2023 |
