@@ -28,7 +28,7 @@ RC Car conversion to Autonomous RC Rover
 
 ## Involvements
 | Organization | Role | Duration |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | [Slugbotics](https://github.com/Slugbotics) | Member of [MATE ROV](https://github.com/Slugbotics/MATE-2023) team | Since 2023 |
 | [MESA](https://mesausa.org/) | Member | Since 2018 |
 | FRC Team #8119 [Tigerbotics](https://github.com/Imperial-High-School-TigerBotics) | Mentor | Since 2023|
