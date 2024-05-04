@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hey! I'm Armando Barron 👋
+I am a roboticist, programming is one of my passions. I hope to work on rovers one day.
 
-<!--
-**Mando8119/Mando8119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Project
+RC Car conversion to Autonomous RC Rover
+- [RC Rover Project Repository](https://github.com/Mando8119/RC-Rover-Project)
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Python
+- Java
+- HTML
+    - CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning
+- C++
+- Machine Learning
+- Artificial Inteligence
+
+## 📖 Education
+- Robotics Engineering Student at UCSC 🤖
+
+## Background
+- Founding Member of FRC Team #8119 Tigerbotics (2019-2023)
+    - Leadership Positions Held:
+        - Co-Captain
+        - Lead Programmer
+        - Lead Electrical
