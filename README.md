@@ -26,8 +26,15 @@ RC Car conversion to Autonomous RC Rover
     - Member since 2018
 - Mentor of FRC Team #8119 [Tigerbotics](https://github.com/Imperial-High-School-TigerBotics)
 
+## Involvements
+| Organization | Role | Duration |
+| --- | --- | --- | --- |
+| [Slugbotics](https://github.com/Slugbotics) | Member of [MATE ROV](https://github.com/Slugbotics/MATE-2023) team | Since 2023 |
+| [MESA](https://mesausa.org/) | Member | Since 2018 |
+| FRC Team #8119 [Tigerbotics](https://github.com/Imperial-High-School-TigerBotics) | Mentor | Since 2023|
+
 ## Background
-- Founding Member of FRC Team #8119 Tigerbotics (2019-2023)
+- Founding Member of FRC Team #8119 [Tigerbotics](https://github.com/Imperial-High-School-TigerBotics) (2019-2023)
     - Leadership Positions Held:
         - Co-Captain
         - Lead Programmer
