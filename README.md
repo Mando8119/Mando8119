@@ -8,16 +8,11 @@ RC Car conversion to Autonomous RC Rover
 ## 📖 Education
 - Robotics Engineering Student at UCSC 🤖
 
-## 🛠 Skills
-- Python
-- Java
-- HTML
-    - CSS
-
-## 🧐 Learning
-- C++
-- Machine Learning
-- Artificial Inteligence
+| 🛠 Skills | 🧐 Learning |
+| --- | --- |
+| Python | C++ |
+| Java | Machine Learning |
+| HTML / CSS | Artificial Inteligence |
 
 ## 🕴️ Involvements
 | Organization | Role | Duration |
