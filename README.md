@@ -1,5 +1,5 @@
 # Hey! I'm Armando Barron 👋
-I am a roboticist, programming is one of my passions. I hope to work on rovers one day.
+I am a roboticist, and programming is one of my passions. I hope to work on rovers one day.
 
 ## Current Project
 RC Car conversion to Autonomous RC Rover
