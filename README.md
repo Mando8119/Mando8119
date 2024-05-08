@@ -2,11 +2,11 @@
 I am a roboticist, and programming is one of my passions. I hope to work on rovers one day.
 
 ## Current Project
-RC Car conversion to Autonomous RC Rover
+RC Car Conversion to Autonomous RC Rover
 - [RC Rover Project Repository](https://github.com/Mando8119/RC-Rover-Project)
 
 ## 📖 Education
-- Robotics Engineering Student at UCSC 🤖
+Robotics Engineering Student at UCSC 🤖
 
 | 🛠 Skills | 🧐 Learning |
 | --- | --- |
