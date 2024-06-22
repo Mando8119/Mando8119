@@ -17,9 +17,9 @@ Robotics Engineering Student at UCSC 🤖
 ## 🕴️ Involvements
 | Organization | Role | Duration |
 | --- | --- | --- |
-| [Slugbotics](https://github.com/Slugbotics) | Member of [MATE ROV](https://github.com/Slugbotics/MATE-2023) team | Since 2023 |
+| [Slugbotics](https://github.com/Slugbotics) | Project Lead of Rover Team | Since 2023 |
 | [MESA](https://mesausa.org/) | Member | Since 2018 |
-| FRC Team #8119 [Tigerbotics](https://github.com/Imperial-High-School-TigerBotics) | Mentor | Since 2023|
+| FRC Team #8119 [Tigerbotics](https://github.com/Imperial-High-School-TigerBotics) | Mentor and Founding Member | Since 2019 |
 
 ## Background
 - Founding Member of FRC Team #8119 [Tigerbotics](https://github.com/Imperial-High-School-TigerBotics) (2019-2023)
