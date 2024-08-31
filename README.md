@@ -32,7 +32,7 @@ Robotics Engineering Student at UCSC 🤖
         - Lead Programmer
         - Lead Electrical
 
-- Team Lead for Slugbotics [Slugbotics](https://github.com/Slugbotics) (2023-Present)
+- Team Lead for [Slugbotics](https://github.com/Slugbotics) (2023-Present)
     - Leadership Positions Held:
         - Rover Team Lead Engineer
         - Rover Team Project Lead
