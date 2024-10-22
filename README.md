@@ -8,15 +8,19 @@ Rover for Rover Team at UCSC
 RC Car Conversion to Autonomous RC Rover
 - [RC Rover Project Repository](https://github.com/Mando8119/RC-Rover-Project)
 
+Underwater ROV for Sea Exploration
+- [SeaROV Project Repository](https://github.com/Mando8119/SeaROV)
+
 
 ## 📖 Education
 Robotics Engineering Student at UCSC 🤖
 
 | 🛠 Skills | 🧐 Learning |
 | --- | --- |
-| Python | C++ |
+| Python | C |
 | Java | Machine Learning |
 | HTML / CSS | Artificial Inteligence |
+| C++ |
 
 ## 🕴️ Involvements
 | Organization | Role | Duration |
