@@ -11,6 +11,9 @@ RC Car Conversion to Autonomous RC Rover
 Underwater ROV for Sea Exploration
 - [SeaROV Project Repository](https://github.com/Mando8119/SeaROV)
 
+SlugHub, essential tools and resources for UCSC students
+- [SlugHub (Cruzhacks project)](https://github.com/DNA-System-Corp/SlugHub)
+
 
 ## 📖 Education
 Robotics Engineering Student at UCSC 🤖
